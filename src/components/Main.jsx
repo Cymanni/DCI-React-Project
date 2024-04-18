@@ -133,7 +133,7 @@ export default function Navbar() {
                 <div className="flex flex-shrink-0 items-center justify-start ms-10 w-full sm:w-auto">
                   <img
                     className="h-8 w-auto"
-                    src="../images/flask.png"
+                    src="./images/flask.png"
                     alt="LevelUp"
                   /><span className="text-orange-600 text-xl font hidden md:hidden lg:inline">Level-Up</span>
                 </div>
@@ -189,7 +189,7 @@ export default function Navbar() {
                         <span className="sr-only">Open user menu</span>
                         <img
                           className="h-9 w-9 rounded-full"
-                          src="../images/avatar.jpg"
+                          src="./images/avatar.jpg"
                           alt=""
                         />
                       </Menu.Button>
